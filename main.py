@@ -54,7 +54,7 @@ print("\n\n--- part 2, focus on 'nums' ---")
 
 
 
-# TODO display how many items are in the list now
+# TODO display how many items are in this new list
 
 
 
