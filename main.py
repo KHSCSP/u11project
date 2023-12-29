@@ -2,8 +2,8 @@
 # ---- do not edit this section ----
 print("preparing your variables...")
 import my_functions as myf
-nums = myf.getintlist("my_nums.txt")
-words = myf.getstring("my_story.txt")
+nums = myf.getintlist("u11project/my_nums.txt")
+words = myf.getstring("u11project/my_story.txt")
 # --- do not edit above this line ---
 
 print("\n--- part 1, becoming familiar with the data ---")
