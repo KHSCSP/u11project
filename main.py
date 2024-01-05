@@ -103,6 +103,6 @@ words = words.split(" ")
 #---------- final boss challenge ---------------------------
 print("\n\n--- optional challenge ---")
 # create a new list of words, without any duplicates
-# find the most common word 
+# use this new list to help find the most common word in 'words' 
 
 
