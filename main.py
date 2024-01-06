@@ -44,6 +44,7 @@ print("\n--- part 1, becoming familiar with the data ---")
 
 #---------- part 2, focus on 'scores' -----------------------
 print("\n\n--- part 2, focus on 'scores' ---")
+print("this data is the 2023 ACT scores from Missouri\n")
 # TODO determine the average of 'scores' (remember: avg = sum/number_of_items)
 # TODO print the largest and smallest item in 'scores'
 # TODO sort 'scores', display the first and last item to check your work from above
