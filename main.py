@@ -8,6 +8,8 @@ words = myf.getstring("u11project/my_story.txt")
 print("\n--- part 1, becoming familiar with the data ---")
 # TODO print 'scores' to see what you are dealing with, then comment out this line
 # TODO print 'words' to see what you are dealing with, then comment out this line
+# FYI - these are the actual ACT scores from Missouri 2023
+
 
 
 # TODO what type of data is 'scores'? (print its type)
@@ -81,6 +83,7 @@ words = words.split(" ")
 
 
 # TODO count the number of words that end with 'ing'
+# hint: loop, look at last 3 letters
 
 
 
@@ -88,8 +91,7 @@ words = words.split(" ")
 
 
 
-
-#---------- final boss challenge ---------------------------
+#---------- final boss battle ---------------------------
 print("\n\n--- optional challenge ---")
 # create a new list of words, without any duplicates
 # use this new list to help find the most common word in 'words' 
