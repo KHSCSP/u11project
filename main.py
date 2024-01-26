@@ -6,8 +6,8 @@ words = myf.getstring("u11project/my_story.txt")
 # --- do not edit above this line ---
 
 print("\n--- part 1, becoming familiar with the data ---")
-# TODO print 'scores' to see what you are dealing with, then comment out this line
-# TODO print 'words' to see what you are dealing with, then comment out this line
+# TODO print a slice of 'scores' to see what you are dealing with
+# TODO print a slice of 'words' to see what you are dealing with
 # FYI - these are the actual ACT scores from Missouri 2023
 
 
@@ -31,9 +31,6 @@ print("\n--- part 1, becoming familiar with the data ---")
 # TODO print an item near the middle of 'words'
 
 
-
-# TODO use slicing to print the first 10 items in 'scores'
-# TODO use slicing to print the last 10 items in 'words'
 
 
 
@@ -76,7 +73,8 @@ print("\n\n--- part 3, focus on 'words' ---")
 
 
 words = words.split(" ")
-# TODO what is different about the variable 'words' now compared to before? you may need to print a slice to see
+# TODO print a slice of words
+# Notice: what is different about the variable 'words' now compared to before?
 
 
 
