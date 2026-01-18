@@ -1,9 +1,10 @@
-# ---- do not edit this section ----
 print("preparing your variables...")
 import my_functions as myf
-scores = myf.getintlist("u11project/act_data.txt")
-words = myf.getstring("u11project/my_story.txt")
-# --- do not edit above this line ---
+scores = myf.getintlist("TODO filepath for act_data")
+words = myf.getstring("TODO filepath for story")
+
+
+
 
 print("\n--- part 1, becoming familiar with the data ---")
 # TODO print a slice of 'scores' to see what you are dealing with
